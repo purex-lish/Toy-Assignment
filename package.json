@@ -1,0 +1,14 @@
+{
+  "name": "toy-assignment",
+  "version": "1.0.0",
+  "description": "toy assignment projects",
+  "main": "Toy-Assignment",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Purity",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.6.0"
+  }
+}
